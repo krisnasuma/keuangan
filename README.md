@@ -28,3 +28,12 @@ Fitur Dasar
 2. Tampilan Sederhana
 * Menggunakan HTML sederhana untuk tabel transaksi, dengan kolom nomor, nama, jenis, tanggal, dan nominal.
 * Ringkasan keuangan (total pemasukan, pengeluaran, serta untung/rugi).
+
+# Tampilan
+
+![Sample Image](https://github.com/krisnasuma/keuangan/blob/main/ListNamaTabelTransaksi.PNG)
+
+![Sample Image](https://github.com/krisnasuma/keuangan/blob/main/TampilanAdmin_AddTransaksi.PNG)
+
+![Sample Image](https://github.com/krisnasuma/keuangan/blob/main/TampilanAplikasiTransaksi%20V0.PNG)
+
